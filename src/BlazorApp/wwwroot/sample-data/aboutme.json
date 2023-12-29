@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a Bachelors of Computer Science Student studying at National University Of Computing&Emerging Sciences,Islamabad. I like to solve complex problems in my own way.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
+    "Web Design",
+    "Web Development",
+    "App Development",
     "Mobile user interfaces",
+    "Focus group testing",
     "Graphic design"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation."
 }
